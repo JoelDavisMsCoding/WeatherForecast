@@ -1,11 +1,3 @@
-/* .day1 {display: inline;}
-.day2 {display: inline;}
-.day3 {display: inline;}
-.day4 {display: inline;}
-.day5 {display: inline;}
-.day6 {display: inline;}
-.day7 {display: inline;} */
-
 p {margin-bottom: 0px; font-size: larger;}
 .container {color: white; background-image: linear-gradient(deepskyblue,#000000);}
 .col1 {margin-top: -45px; padding-bottom: 10px;}
@@ -16,7 +8,7 @@ p {margin-bottom: 0px; font-size: larger;}
 @media (min-width: 576px) {.flex-container {display: flex;}}
 @media (max-width: 576px) {.row2
 {
-    background: url("https://img.freepik.com/free-vector/night-time-sky-background-with-glittering-stars_1048-19664.jpg")50%;
+    background: url("./nightSky.avif")50%;
     position: relative;
     background-repeat: no-repeat;
     background-size: inherit;
